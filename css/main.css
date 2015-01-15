@@ -40,8 +40,8 @@ body {
 }
 
 .frame {
-    border-image: url("../images/border.png") 22 22 22 22 stretch stretch;
-    border-width: 22px 22px 22px 22px;
+    border-image: url("../images/border.png") 20 20 20 20 stretch stretch;
+    border-width: 20px 20px 20px 20px;
 }
 
 .img-flex {
@@ -62,7 +62,7 @@ body {
 
 .icon {
     margin: 1rem;
-    width: 27%;
+    width: 20%;
 }
 
 .subhead {
