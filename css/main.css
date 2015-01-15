@@ -34,3 +34,38 @@ html {
     height: 2.5rem;
     margin: 1rem;
 }
+
+.frame {
+    border-image: url("../images/") 22 22 22 22 stretch stretch;
+    border-width: 22px 22px 22px 22px;
+}
+
+.img-flex {
+    display: block;
+    width: 100%;
+}
+
+.img-flex2 {
+    display: block;
+    width: 100%;
+    background-color: #87714F;
+}
+
+.intro {
+    text-align: center;
+    color: #FFF;
+}
+
+.icon {
+    margin: 1rem;
+    width: 27%;
+}
+
+.subhead {
+    width: auto;
+    text-align: center;
+}
+
+.crimes {
+    text-align: left;
+}
