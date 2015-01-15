@@ -17,14 +17,18 @@ html {
     box-sizing: inherit;
 }
 
+body {
+    background-color: #E7E5D9;
+}
+
 .title {
     display: inline-block;
     width: 13rem;
     padding: .5em;
     background: url("../images/star.svg") repeat left center;
-    background-color: #E8E5DA;
+    background-color: #E7E5D9;
     background-repeat: no-repeat;
-    margin-top: -.75rem;
+    margin-top: -1rem;
     text-shadow: 2px 2px #939598;
 }
 
@@ -36,7 +40,7 @@ html {
 }
 
 .frame {
-    border-image: url("../images/") 22 22 22 22 stretch stretch;
+    border-image: url("../images/border.png") 22 22 22 22 stretch stretch;
     border-width: 22px 22px 22px 22px;
 }
 
